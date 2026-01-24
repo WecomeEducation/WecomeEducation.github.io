@@ -1,2 +1,2 @@
-# WecomeEducation.github.io
-wecome website
+# VecomeEducation.github.io
+Vecome website
